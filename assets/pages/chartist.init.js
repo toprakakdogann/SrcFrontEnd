@@ -1,11 +1,3 @@
-/*
- Template Name: Agroxa - Responsive Bootstrap 4 Admin Dashboard
- Author: Themesbrand
- File: Chartist init js
- */
-
-
-//smil-animations Chart
 
 
   var chart = new Chartist.Line('#smil-animations', {

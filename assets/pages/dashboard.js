@@ -1,9 +1,4 @@
 
-/*
- Template Name: Agroxa - Responsive Bootstrap 4 Admin Dashboard
- Author: Themesbrand
- File: Dashboard init js
- */
 
 !function($) {
     "use strict";

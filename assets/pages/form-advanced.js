@@ -1,8 +1,3 @@
-/*
- Template Name: Agroxa - Responsive Bootstrap 4 Admin Dashboard
- Author: Themesbrand
- File: Form Advanced Components Init
- */
 
 
 
